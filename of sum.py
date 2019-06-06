@@ -1,2 +1,2 @@
-a,b=input().split()
-print(int(a)**int(b))
+c,d=input().split()
+print(int(c)**int(d))
