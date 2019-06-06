@@ -1,5 +1,2 @@
-n=int(input())
-a=n//10
-b=n%10
-c=a**b
-print(c)
+a,b=input().split()
+print(int(a)**int(b))
